@@ -1,1 +1,2 @@
 writing content to  a file 2
+second line
